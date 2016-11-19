@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarrays">
+        <item>测试</item>
+        <item>123</item>
+        <item>Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MenuLearning</string>
+    <string name="text_blue">蓝色</string>
+    <string name="text_red">红色</string>
+    <string name="text_green">绿色</string>
+</resources>

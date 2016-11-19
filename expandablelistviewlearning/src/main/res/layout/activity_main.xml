@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.wuzch.expandablelistviewlearning.MainActivity">
+
+    <!--childDivider自列表的分割线颜色-->
+    <ExpandableListView
+        android:animateLayoutChanges="true"
+        android:childDivider="#f53739"
+        android:id="@+id/myExpandable_List"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ExpandableListView>
+</LinearLayout>

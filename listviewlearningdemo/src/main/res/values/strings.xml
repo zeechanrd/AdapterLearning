@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListViewLearningDemo</string>
+    <string name="add_one_data">添加一条数据</string>
+    <string name="add_position_data">添加第五条数据</string>
+    <string name="remove_data">根据对象删除数据</string>
+    <string name="remove_position_data">根据游标删除数据</string>
+    <string name="remove">移除数据</string>
+</resources>

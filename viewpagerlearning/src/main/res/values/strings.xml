@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerLearning</string>
+    <string name="one_activity_name">OneActivity</string>
+    <string name="two_activity_name">TwoActivity</string>
+    <string name="three_activity_name">ThreeActivity</string>
+    <string name="four_activity_name">FourActivity</string>
+</resources>

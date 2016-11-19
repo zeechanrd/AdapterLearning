@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterLearning.iml" filepath="$PROJECT_DIR$/AdapterLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistviewlearning/expandablelistviewlearning.iml" filepath="$PROJECT_DIR$/expandablelistviewlearning/expandablelistviewlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewlearningdemo/listviewlearningdemo.iml" filepath="$PROJECT_DIR$/listviewlearningdemo/listviewlearningdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menulearning/menulearning.iml" filepath="$PROJECT_DIR$/menulearning/menulearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationlearning/notificationlearning.iml" filepath="$PROJECT_DIR$/notificationlearning/notificationlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindowlearning/popupwindowlearning.iml" filepath="$PROJECT_DIR$/popupwindowlearning/popupwindowlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipperlearning/viewflipperlearning.iml" filepath="$PROJECT_DIR$/viewflipperlearning/viewflipperlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerlearning/viewpagerlearning.iml" filepath="$PROJECT_DIR$/viewpagerlearning/viewpagerlearning.iml" />
+    </modules>
+  </component>
+</project>

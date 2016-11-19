@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.wuzch.viewpagerlearning.MainActivity">
+
+    <Button
+        android:textAllCaps="false"
+        android:text="ViewPager的使用2-PagerTitleStrip"
+        android:id="@+id/btn_ViewPager_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:layout_below="@+id/btn_ViewPager_one"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:textAllCaps="false"
+        android:text="ViewPager的使用-PagerTabStrip"
+        android:id="@+id/btn_ViewPager_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:textAllCaps="false"
+        android:text="ViewPager的使用1"
+        android:id="@+id/btn_ViewPager_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp" />
+
+    <Button
+        android:background="#2af45d"
+        android:id="@+id/btn_go_guide"
+        android:textAllCaps="false"
+        android:text="进入引导页"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="29dp"
+        android:layout_below="@+id/btn_ViewPager_four"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:background="#445aec"
+        android:id="@+id/btn_ViewPager_four"
+        android:textAllCaps="false"
+        android:text="ViewPager的使用4-实现TabHost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="51dp"
+        android:layout_below="@+id/btn_ViewPager_three"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
